@@ -1,4 +1,4 @@
-# edugate-scraper
+# ksu-edugate-scraper
 
 
 
